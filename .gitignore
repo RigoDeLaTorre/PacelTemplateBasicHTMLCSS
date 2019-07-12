@@ -6,4 +6,4 @@ package-lock.json
 .env
 
 # Environment variables, never commit this file
-/.cache
+.cache
