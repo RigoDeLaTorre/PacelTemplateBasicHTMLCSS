@@ -1,0 +1,1 @@
+{"version":3,"sources":["css\\main.scss"],"names":[],"mappings":"AAEA,KACE,eAEF,EACE,uCAAA,CAAA,+BAAA,CAAA,uBAAA,CAAA","file":"main.498b6acc.css","sourceRoot":"..\\..\\src","sourcesContent":["@import \"one\";\r\n\r\nbody {\r\n  background: red;\r\n}\r\na {\r\n  transition: transform 1s;\r\n}\r\n"]}
