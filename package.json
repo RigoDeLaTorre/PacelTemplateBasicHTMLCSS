@@ -1,11 +1,11 @@
 {
-  "name": "parcelTest",
+  "name": "StarterKit for Beginner HTML/CSS/Javascript",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.html --global index",
-    "production": "parcel build src/index.html --no-cache --out-dir=build --no-source-maps"
+    "production": "parcel build src/index.html --global index --no-cache --out-dir=build --no-source-maps"
   },
   "dependencies": {
     "autoprefixer": "^9.6.1",
