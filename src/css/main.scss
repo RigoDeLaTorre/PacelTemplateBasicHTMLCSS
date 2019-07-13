@@ -1,8 +1,15 @@
-@import "one";
+@import "reset";
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");
 
-body {
+// body {
+//   background: #f3f3f3;
+//   font-family: "Roboto", sans-serif;
+// }
+h1 {
+  font-size: 5rem;
   background: red;
 }
-a {
-  transition: transform 1s;
-}
+// .title {
+//   font-size: 5rem;
+//   color: orange;
+// }
