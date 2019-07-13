@@ -25,9 +25,10 @@ https://parceljs.org/
 ```
 
 **Start the dev server**
+Server will run at http://localhost:1234
 
 ```bash
-  npm dev
+  npm run dev
   yarn dev
 ```
 
