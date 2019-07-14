@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/index.js"],"names":["getElement","name","console","log"],"mappings":";;;;;;;AAAA,IAAMA,UAAU,GAAG,SAAbA,UAAa,CAAAC,IAAI,EAAI;AACzBC,EAAAA,OAAO,CAACC,GAAR,CAAYF,IAAZ;AACD,CAFD","file":"js.00a46daa.js","sourceRoot":"..\\src","sourcesContent":["const getElement = name => {\r\n  console.log(name);\r\n};\r\n\r\nexport { getElement };\r\n"]}

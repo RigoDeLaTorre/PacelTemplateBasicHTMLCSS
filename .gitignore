@@ -1,9 +1,9 @@
-# Node modules
+# Node modules and parcel build files
 node_modules
 package-lock.json
+dist
+build
+.cache
 
 # Environment variables, never commit this file
 .env
-
-# Environment variables, never commit this file
-.cache

@@ -36,7 +36,7 @@ Server will run at http://localhost:1234
 
 ```bash
   All files will build to ./build directory
-  npm production
+  npm run production
   yarn production
 ```
 
